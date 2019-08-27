@@ -1,0 +1,6 @@
+authors = ["Logan Kilpatrick <23kilpatrick23@gmail.com>"]
+name = "Linting.jl"
+uuid = "9d8a8e0e-c86c-11e9-1ecd-13fbbb3c9c45"
+version = "0.1.0"
+
+[deps]
