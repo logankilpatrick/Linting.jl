@@ -1,5 +1,5 @@
 # Linting.jl
-A Julia Linter for all of your Linting needs! 
+A Julia Linter for all of your Linting needs! Join the `#linting` channel!  [![Chat on Slack](https://img.shields.io/badge/chat-on%20slack-ff69b4.svg)](https://julialang.slack.com) 
 
 ## The reality
 
